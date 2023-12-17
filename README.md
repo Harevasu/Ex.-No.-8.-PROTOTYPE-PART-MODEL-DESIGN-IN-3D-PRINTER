@@ -47,7 +47,7 @@
 
 ## Output:
 
-![image](https://raw.githubusercontent.com/sanjayy2431/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/main/empd8.jpg)
+![exp8](https://github.com/Harevasu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147985044/a34431c9-677e-4685-937f-e8cf65ac37b0)
 
 ### Name:Harevasu S
 ### Register Number: 23004355
